@@ -1,0 +1,17 @@
+.catImages{
+    height: 300px;
+    width: 300px;
+    display: flex;
+}
+.fetchButton{
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    width: 200px;
+    color: cornsilk;
+    font-weight: bold;
+    background-color: darkslategrey;
+    box-shadow: 3px 3px;
+}
